@@ -27,7 +27,7 @@ This repository contains **dataset** and resources for the **E-Health System** p
    ```
 
 ## 👨‍💻 Contributors
-- **Your Name** – [GitHub](https://github.com/Rifan09)
+- **Rifan** – [GitHub](https://github.com/Rifan09)
 
 ## 📩 Contact
 For inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-rifani-828b85241/) or email at **muhammadrifan016@gmail.com**.
